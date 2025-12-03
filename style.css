@@ -1,5 +1,15 @@
 /* Background */
+/* === Police Archivo Black === */
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+.archivo-black-regular {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
+    font-size: 18px;
     margin: 0;
     padding: 0;
     background-color: #0D0D07;
