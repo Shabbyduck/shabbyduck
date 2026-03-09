@@ -2,9 +2,22 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=https://open.spotify.com/artist/1QIB9pmoLKhVMHIoOXJmdA">
-  <title>Redirecting...</title>
+  <title>Welcome</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: green;
+      color: white;
+      font-family: Arial, sans-serif;
+      font-size: 48px;
+    }
+  </style>
 </head>
 <body>
+  welcome
 </body>
 </html>
